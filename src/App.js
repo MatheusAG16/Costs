@@ -15,7 +15,7 @@ function App() {
       <NavBar />
       <Container customClass="min-height">
         <Routes>
-          <Route exact path="/home" element={<Home />} />
+          <Route exact path="/" element={<Home />} />
 
           <Route path="/contato" element={<Contato />} />
 
