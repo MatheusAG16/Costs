@@ -1,35 +1,5 @@
 {
-  "projects": [
-    {
-      "id": "18e6",
-      "name": "Fazer um site",
-      "budget": "50000",
-      "category": {
-        "id": "4",
-        "name": "Planejamento"
-      },
-      "cost": 4000,
-      "services": [
-        {
-          "name": "Front-end",
-          "cost": "4000",
-          "description": "Contratar um desenvolvedor front-end",
-          "id": "7c8d5d15-a7bd-4240-9ef8-2af6cec64b04"
-        }
-      ]
-    },
-    {
-      "id": "02e0",
-      "name": "teste",
-      "budget": "12",
-      "category": {
-        "id": "1",
-        "name": "Infra"
-      },
-      "cost": 0,
-      "services": []
-    }
-  ],
+  "projects": [],
   "categories": [
     {
       "id": "1",
